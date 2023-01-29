@@ -1,0 +1,16 @@
+Prompt: WELCOME TO MY SUPER SECURE AWESOME WEBSITE. YOU WILL NEVER FIND A WAY INSIDE?
+
+You are given a page of a website login
+
+If you inspect the page in the index.html you will find a function that checks the password
+
+You will see that the username and password are: 
+    - Username: alexboulayISAWESOME
+    - Password: iamdabest4ever
+
+Once inputed you will be taken to a page with a hexadecimal string
+    - 6C626374667B70407373773072645F6E30745F7365637572335F656E75676829
+
+Once converted you will get the flag
+
+Flag = lbctf{p@ssw0rd_n0t_secur3_enugh}

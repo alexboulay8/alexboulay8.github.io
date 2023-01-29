@@ -1,0 +1,19 @@
+Prompt: Can you help me find C3P0?
+
+Notice in prompt it says to find C3P0
+ - C3P0 in Star Wars is a robot
+
+ We need to find the robots
+    Google how to find robots on a website?
+    It will return "robots.txt meta tag"
+
+    Google where to place meta tag 
+    - IN THE URL
+
+Once you put robots.txt at the end of the URL
+You get to a page that says "/I_FUOND_HIM.html"
+
+If you place that at the end of the URL instead of "robots.txt"
+    It will take you to a page that contains the flag 
+
+Flag = lbctf{f0und_d@_r0b0ts}
